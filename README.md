@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Kumar Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&hl=en-US&sa=X&ved=2ahUKEwjzvuLX8tL4AhVq_jgGHcIQApgQrNwCKAB6BQgBENEC&biw=1519&bih=764#imgrc=dbrfb5dvHO4gVM">
+<h3 align="center">A passionate  developer from India</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaskrjha&label=Profile%20views&color=0e75b6&style=flat" alt="manaskrjha" /> </p>
