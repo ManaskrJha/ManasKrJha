@@ -11,10 +11,10 @@ Ask me about Python, C++, and Competitive Programming.<br>I'm Currently Learning
 
 # 📊 GitHub Stats:
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManaskrJha&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praX03&layout=compact&theme=dark" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKrJha&layout=compact&theme=dark" width="350"></a>
 </p>
 
 ## 🌐 Socials:
