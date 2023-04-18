@@ -21,8 +21,8 @@ Ask me about Python, C++, and Competitive Programming.<br>I'm Currently Learning
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nedo.nedo_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ManasKumarJha) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Jha_Manas_) 
-<a href="https://open.spotify.com/playlist/6bdBOgzvbK3xDiTXbA4lYp?si=ac7e62ca83304209"><img alt="TF" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</br><b><i>I got some good music taste 😉</b></i>
+
+
 
 # 💻 Tech Stack:
 <h3>Here are some of the tools/tech/frameworks I know/trying to know: </h3>
