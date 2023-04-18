@@ -9,6 +9,14 @@ I'm Manas Kumar Jha, aspiring Machine Learning engineer from <b>Jamshedpur, Indi
 Ask me about Python, C++, and Competitive Programming.<br>I'm Currently Learning Data Science and ML.<br>Fun fact: I laugh at my own code.<br>
 
 
+# 📊 GitHub Stats:
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=praX03&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praX03&layout=compact&theme=dark" width="350"></a>
+</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nedo.nedo_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ManasKumarJha) 
@@ -37,10 +45,8 @@ Ask me about Python, C++, and Competitive Programming.<br>I'm Currently Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManasKrJha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManasKrJha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKrJha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 ---
