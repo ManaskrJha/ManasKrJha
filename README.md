@@ -26,6 +26,7 @@ Ask me about Python, C++, and Competitive Programming.<br>I'm Currently Learning
 
 # 💻 Tech Stack:
 <h3>Here are some of the tools/tech/frameworks I know/trying to know: </h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
