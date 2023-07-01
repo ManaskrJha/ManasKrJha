@@ -47,6 +47,5 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ManasKrJha&icon=0&color=0">
+
 </p>
